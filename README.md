@@ -20,7 +20,7 @@ EduPlatform is a simple yet powerful educational management system built using A
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/EduPlatform.git
+[ git clone https://github.com/your-username/EduPlatform.git](https://github.com/EfsanNart/education-platform.git)
 ```
 ### 2️⃣ Navigate to the Project Folder
 ```sh
@@ -30,7 +30,7 @@ EduPlatform is a simple yet powerful educational management system built using A
 Modify the `appsettings.json` file with your SQL Server connection string:
 ```json
 "ConnectionStrings": {
-  "Default": "Server=LAPTOP-IOOHI3VQ\SQLEXPRESS;Database=EduPlatformDB;Trusted_Connection=True;"
+  "Default": "Server=LAPTOP-IOOHI3VQ\\SQLEXPRESS;Database=EduPlatformDB;Trusted_Connection=True;"
 }
 ```
 Then run:
