@@ -20,7 +20,7 @@ EduPlatform is a simple yet powerful educational management system built using A
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
 ```sh
-[ git clone https://github.com/EfsanNart/education-platform.git)
+ git clone https://github.com/EfsanNart/education-platform.git
 ```
 ### 2️⃣ Navigate to the Project Folder
 ```sh
